@@ -1,0 +1,8 @@
+h1, h3
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1 {
+    font-size: 100px;
+    text-shadow: 10px 10px 10px #E0AAFF;
+}

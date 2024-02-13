@@ -1,0 +1,55 @@
+.btn-primary:hover {
+    border-color: #3C096C;
+    background-color: #3C096C;
+
+}
+
+.btn-primary{
+    background-color: #5A189A;
+    border-color: #5A189A;
+}
+.card:hover {
+    background-color: #C77DFF;
+}
+.modal-content {
+    background-color: #C77DFF;
+}
+.card {
+    background-color: #E0AAFF;
+}
+
+.table-striped > tbody > tr:nth-child(odd) > td, .table-striped > tbody > tr:nth-child(odd) > th {
+    background-color: #9D4EDD;
+ }
+
+ .table-striped > tbody > tr:nth-child(even) > td, .table-striped > tbody > tr:nth-child(even) > th {
+    background-color: #E0AAFF;
+ }
+
+.align-left 
+{
+    width: 80%;
+}
+.align-right 
+{
+    width: 20%;
+    text-align: right;
+}
+
+#cart-table
+{
+    width: 100%;
+    table-layout: auto;
+}
+
+#cart .modal-footer 
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+#cart-total 
+{
+    align-self: flex-start;
+    cursor:pointer;
+}

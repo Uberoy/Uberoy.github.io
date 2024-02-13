@@ -1,0 +1,25 @@
+.site-background
+{
+    background-color: #10002B;
+}
+
+.bg-primary
+{
+    background-color: #5A189A !important;
+}
+
+.text-bg-primary
+{
+    background-color: #5A189A !important;
+    color: white !important;
+}
+
+h1 
+{
+    color: #7B2CBF;
+}
+
+h3 
+{
+    color: #C77DFF;
+}
